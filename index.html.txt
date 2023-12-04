@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Restaurant Name</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <!-- Navigation Bar -->
+        </nav>
+    </header>
+
+    <section id="hero">
+        <!-- Hero Section with Background Image -->
+    </section>
+
+    <section id="menu">
+        <!-- Food Menu Section -->
+    </section>
+
+    <section id="order">
+        <!-- Online Ordering Form -->
+    </section>
+
+    <footer>
+        <!-- Footer Content -->
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    /* Styles for header */
+}
+
+nav {
+    /* Styles for navigation bar */
+}
+
+#hero {
+    background-image: url('path-to-your-image.jpg');
+    height: 500px;
+    background-size: cover;
+}
+
+#menu, #order {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
